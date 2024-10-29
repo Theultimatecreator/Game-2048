@@ -33,7 +33,7 @@ MVP - for pattern part
 
 💾 Installation
 
-1. Download the APK from the [link above](https://github.com/Theultimatecreator/Anorbank/releases/download/v1.0/app-debug.apk)
+1. Download the APK from the [link above](https://github.com/Theultimatecreator/Game-2048/releases/download/v1.0/app-debug.apk)
 2. Open the APK on your Android device.                                                                  
 3. Allow installation from unknown sources if prompted.                                          
 4. Open the app and enjoy!                                                                          
