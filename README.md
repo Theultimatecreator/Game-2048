@@ -21,13 +21,13 @@ Swipe in any direction and move the piesces same number pieces will join togeter
 🛠️ Technologies   
 
 
-Koltin - for the backend part
-XMl - for ui part
-TOuch events - for listening swipes
-Shared Preferences - for saving the progress
-Neuphormizm - for cool loking ui
-Relative layout - for placing the items in pattern
-MVP - for pattern part                                                                                                     
+Koltin - for the backend part                                                        
+XMl - for ui part                                                             
+TOuch events - for listening swipes                                          
+Shared Preferences - for saving the progress                                          
+Neuphormizm - for cool loking ui                                                                   
+Relative layout - for placing the items in pattern                                          
+MVP - for pattern part                                                                                                                                     
 
 #
 
