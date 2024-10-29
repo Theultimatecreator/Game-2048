@@ -3,12 +3,12 @@ Smash the two same numbers together and go higer and higer
 #
 # 📲 [Download](https://github.com/Theultimatecreator/Game-2048/releases/download/v1.0/app-debug.apk)
 
-
-
 **📸 Screenshots**                                                                         
 
-![image](https://github.com/user-attachments/assets/d094e3dd-3e7e-4198-b3d1-5f9bae170cd1)
-![image](https://github.com/user-attachments/assets/bad6e2a3-4c74-44b7-b43f-5d5e0b31834c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d094e3dd-3e7e-4198-b3d1-5f9bae170cd1" width="200">
+  <img src="https://github.com/user-attachments/assets/bad6e2a3-4c74-44b7-b43f-5d5e0b31834c" width="200">
+</p>
 
 #
 
@@ -21,13 +21,13 @@ Swipe in any direction and move the piesces same number pieces will join togeter
 🛠️ Technologies   
 
 
-Koltin - for the backend part                                                        
-XMl - for ui part                                                             
-TOuch events - for listening swipes                                          
-Shared Preferences - for saving the progress                                          
-Neuphormizm - for cool loking ui                                                                   
-Relative layout - for placing the items in pattern                                          
-MVP - for pattern part                                                                                                                                     
+**Koltin** - for the backend part                                                        
+**XMl** - for ui part                                                             
+**TOuch events** - for listening swipes                                          
+**Shared Preferences** - for saving the progress                                          
+**Neuphormizm** - for cool loking ui                                                                   
+**Relative layout** - for placing the items in pattern                                          
+**MVP** - for pattern part                                                                                                                                     
 
 #
 
